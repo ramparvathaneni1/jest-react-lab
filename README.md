@@ -12,4 +12,4 @@ This lab is basically a copy of your previously written To-Do app. It's your job
 
 You can use the [Testing React With Jest](https://git.generalassemb.ly/ModernEngineering/testing-react-with-jest-walkthrough) lesson for reference.
 
-NOTE - When you `cd` into the lab folder, remember to run `npm i` to install the dependencies.
+NOTE - When you `cd` into the lab folder, remember to run `npm i` to install the dependencies and run `npm start` to start the server.
